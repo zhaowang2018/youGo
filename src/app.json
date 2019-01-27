@@ -3,13 +3,14 @@
     "pages/index/main",
     "pages/category/main",
     "pages/cart/main",
-    "pages/mine/main"
+    "pages/mine/main",
+    "pages/search/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#ff2219",
     "navigationBarTitleText": "品优购",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "selectedColor":"#ff2d4a",
